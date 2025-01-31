@@ -1,6 +1,3 @@
-import os
-os.system("cls" if os.name=="nt" else "clear")
-
 laptop = { "brand": "dell", "model": "alienware", "year": 2010}
 
 print("Laptop Brand:", laptop["brand"])
